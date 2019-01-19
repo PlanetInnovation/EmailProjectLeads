@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # This script emails project leaders with a list of all staff that have access to their project
-# See kvv for more info
 
 # path added since we will be calling this from cron
 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
